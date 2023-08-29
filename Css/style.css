@@ -3,3 +3,49 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-header {
+    font-size: 46px;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin-bottom: 30px;
+}
+
+.logo {
+    vertical-align: middle;
+    width: 63px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+nav {
+    padding: 10px;
+    border: 1px solid lightgray;
+}
+.button {
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 11px;
+}
+
+.button.task {
+    background-color: #47adf1;
+    color: white;
+    border: none;
+}
+
+.button.section {
+    background-color: white;
+    color: lightgray;
+    border: 1px solid lightgrey;
+}
+
