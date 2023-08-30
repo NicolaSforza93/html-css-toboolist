@@ -76,6 +76,9 @@ ul {
 
 .check {
     display: inline-block;
+    width: 15px;
+    text-align: center;
+    line-height: 10px;
     border: 1px solid #6fc5b0;
     border-radius: 50%;
     color: #6fc5b0;
@@ -87,6 +90,9 @@ ul {
 
 .cross{
     display: inline-block;
+    width: 15px;
+    text-align: center;
+    line-height: 10px;
     border: 1px solid red;
     border-radius: 50%;
     color: red;
